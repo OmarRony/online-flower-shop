@@ -1,0 +1,21 @@
+/* style first section */
+.head-container{
+    size:100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+}
+.head-container .front-pic{
+    
+}
+.primary-button{
+    background-color:orange;
+}
+h1{
+    font-size: 80px;
+}
+.intro{
+    padding:40px;
+}
