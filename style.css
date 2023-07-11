@@ -179,16 +179,36 @@ h3{
 /* <!-- fifth section start --> */
 h2{
     text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
     
 }
 .get{
     margin-top: 80px ;
 }
+
+p{
+    text-align: center;
+}
 .para-fifth{
     text-align: center;
+  
+  .email{
+    align-items: center;
+  }  
 
 }
 .user-info{
     background-image: url('./flower-asset/back-1.png');
     align-items: center;
+}
+.last-button{
+    padding:15px 35px;
+    border-radius: 8px;
+    background-color: #E55473;
+    color:white;
+    border:none;
+    margin-top: 20px;
+    margin-left: 800px;
+
 }
